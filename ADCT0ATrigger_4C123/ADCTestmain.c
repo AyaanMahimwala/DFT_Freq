@@ -35,7 +35,7 @@
 #include "math.h"
 #include "Speaker.h"
 
-#define BUFFER_SIZE 15000
+#define BUFFER_SIZE 15842
 
 
 //debug code
